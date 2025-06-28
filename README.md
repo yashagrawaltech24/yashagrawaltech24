@@ -47,4 +47,4 @@ You can explore all my work, services, and content at:
 If you're looking to simplify your tech, scale your business, or need help choosing the right tools — you’re in the right place.
 
 📫 Reach out or follow my work:
-[LinkedIn](https://www.linkedin.com/in/yashagrawal0410/) | [GitHub](https://github.com/yashagrawaltech) | [Portfolio](https://www.yashag.tech)
+[LinkedIn](https://www.linkedin.com/in/yashagrawal0410/) | [GitHub](https://github.com/yashagrawaltech24) | [Portfolio](https://www.yashag.tech)
